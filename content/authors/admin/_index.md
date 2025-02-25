@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Saad Ezzini
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# # Name pronunciation (optional)
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Saad
+last_name: Ezzini
 
 # Status emoji
 status:
@@ -20,83 +20,63 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: King Fahd University of Petroleum and Minerals
+    url: https://kfupm.edu.sa
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:saad.ezzini@kfupm.edu.sa'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/EzziniSaad
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ezzini
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ezzini
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=48ebm6wAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-7657-4738
 
 interests:
+  - Software Engineering
+  - Natural Language Processing 
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics and Intelligent Systems
+  - Arabic NLP
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: PhD Computer Science
+    institution: University of Luxembourg
+    date_start: 2018
+    date_end: 2022
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: MSc Data Science
+    institution: Sidi Mohammed Ben Abdellah University
+
+  - area: BSc Mathematics and Computer Science
+    institution: Sidi Mohammed Ben Abdellah University
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Assistant Professor
+    company_name: King Fahd University of Petroleum and Minerals, Saudi Arabia
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-12-29
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Assistant Professor
+    company_name: Lancaster University, UK
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -183,4 +163,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Saad Ezzini is an assistant professor of computer science and software engineering at the department of Information & Computer Science at King Fahd University of Petroleum and Minerals. His research interests include software engineering, natural language processing, and artificial intelligence for robotics. He leads the Quality Systems and Language lab, which works on artificial intelligence for software engineering quality assurance, natural speech to robotic action, and Arabic NLP.
